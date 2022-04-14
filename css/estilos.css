@@ -43,3 +43,10 @@ body{
 #post{
     padding: 2em;
 }
+
+.footer{
+    background-color: beige;
+    text-align: center;
+    padding: 1rem;
+    
+}
