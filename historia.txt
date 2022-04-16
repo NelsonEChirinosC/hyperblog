@@ -6,4 +6,4 @@ Muchas gracias
 
 hoy hablaremos de su vida y de su pasion.
 
-Esto es una prueba de main con rebase
+Esto es una prueba de main con rebase ya va que no entiendo
